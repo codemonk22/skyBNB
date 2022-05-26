@@ -1,0 +1,7 @@
+newDatesBooked (
+        string[] datesBooked,
+        uint256 id,
+        address booker,
+        string city,
+        string imgUrl 
+    
