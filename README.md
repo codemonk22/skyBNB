@@ -4,8 +4,8 @@
 
 # Rooms/Vacation home rentals paid in ethereums or NFT's
 
-### Landing Page
+### Landing Page - ReactJS Frontent
 ![alt text](src/images/Screen-01.png)
 
-### Booking Listing Page
+### Booking Listing Page - ReactJS Frontent
 ![alt text](src/images/Screen-02.png)
